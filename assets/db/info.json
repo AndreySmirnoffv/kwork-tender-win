@@ -1,0 +1,189 @@
+[
+    {
+
+        "Request": [
+      
+          {
+      
+            "title": "Home",
+      
+            "subMenu": [
+      
+              {"title": "Overview"},
+      
+              {"title": "Updates"},
+      
+              {"title": "Team"},
+      
+              {"title": "Contact"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Services",
+      
+            "subMenu": [
+      
+              {"title": "Consulting"},
+      
+              {"title": "Support"},
+      
+              {"title": "Customization"},
+      
+              {"title": "Training"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Products",
+      
+            "subMenu": [
+      
+              {"title": "Product A"},
+      
+              {"title": "Product B"},
+      
+              {"title": "Product C"},
+      
+              {"title": "Product D"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "About Us",
+      
+            "subMenu": [
+      
+              {"title": "Company"},
+      
+              {"title": "Careers"},
+      
+              {"title": "News"},
+      
+              {"title": "Events"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Blog",
+      
+            "subMenu": [
+      
+              {"title": "Latest Posts"},
+      
+              {"title": "Categories"},
+      
+              {"title": "Archives"},
+      
+              {"title": "Contributors"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Contact",
+      
+            "subMenu": [
+      
+              {"title": "Customer Service"},
+      
+              {"title": "Sales"},
+      
+              {"title": "Technical Support"},
+      
+              {"title": "Feedback"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Resources",
+      
+            "subMenu": [
+      
+              {"title": "Documentation"},
+      
+              {"title": "Tutorials"},
+      
+              {"title": "FAQs"},
+      
+              {"title": "Community"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Gallery",
+      
+            "subMenu": [
+      
+              {"title": "Photos"},
+      
+              {"title": "Videos"},
+      
+              {"title": "Projects"},
+      
+              {"title": "Clients"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "Partners",
+      
+            "subMenu": [
+      
+              {"title": "Partnerships"},
+      
+              {"title": "Affiliates"},
+      
+              {"title": "Sponsors"},
+      
+              {"title": "Collaborations"}
+      
+            ]
+      
+          },
+      
+          {
+      
+            "title": "FAQ",
+      
+            "subMenu": [
+      
+              {"title": "General"},
+      
+              {"title": "Technical"},
+      
+              {"title": "Billing"},
+      
+              {"title": "Account"}
+      
+            ]
+      
+          }
+      
+        ]
+      
+      }
+]
