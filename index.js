@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios'); // Использую axios так как другая библиотека справлялась не так как хотелось нужна для получения картинки
 require('dotenv').config({ path: "./assets/modules/.env" });
 const { Telegraf, session, Markup } = require('telegraf');
-const bot = new Telegraf("6629023705:AAFxm9u1wcyBYTu5MIcIrXB69lhhvqhqWfo");
+const bot = new Telegraf();
 const infoJson = require('./assets/db/info.json');
 let dbJson = require('./assets/db/db.json');
 
